@@ -1,2 +1,2 @@
 # FizzBuzz
-FizzBuzz Solution
+Nothing spectular - FizzBuzz Solution in Python.
